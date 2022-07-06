@@ -66,6 +66,17 @@ h1{
     font-size: 40px;
 }
 
+.text h1{
+    font-size: 55px;
+    text-align: left;
+    margin-left: -25px;
+    color: rgb(195, 57, 57);
+}
+
+.text h2{
+    margin-top: -30px;
+}
+
 h2{
     color: #00ACC1;
 }
@@ -133,3 +144,4 @@ p{
 .four:hover{
     opacity: .5;
 }
+
